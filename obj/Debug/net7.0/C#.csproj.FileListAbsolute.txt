@@ -1,0 +1,15 @@
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\bin\Debug\net7.0\C#.exe
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\bin\Debug\net7.0\C#.deps.json
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\bin\Debug\net7.0\C#.dll
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\bin\Debug\net7.0\C#.pdb
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\obj\Debug\net7.0\C#.dll
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\obj\Debug\net7.0\refint\C#.dll
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\obj\Debug\net7.0\C#.pdb
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+G:\My Drive\School Work\2023 - Winter\Applied Programming\C#\obj\Debug\net7.0\ref\C#.dll
